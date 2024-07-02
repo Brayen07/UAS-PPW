@@ -1,0 +1,27 @@
+
+.Deskripsi-Produk {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5; 
+  }
+  header {
+    background-color: #00ecb5;
+    padding: 20px 0;
+    border-bottom: 1px solid rgb(235, 227, 227) 
+  }
+
+  .container {
+    max-width: 800px; 
+    margin: 0 auto; 
+  }
+  
+  .product-image img {
+    max-width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  
+  

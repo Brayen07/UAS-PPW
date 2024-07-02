@@ -1,0 +1,53 @@
+/* Header Styles */
+header {
+  background-color: #00ecb5;
+  padding: 20px 0;
+  border-bottom: 1px solid rgb(235, 227, 227)
+}
+.footer{
+  padding: 20px;
+  text-align: center;
+  background-color: #00ecb5;
+  margin-top: 20px;
+  background: #00ecb5;
+
+}
+main{
+  background-image: url("Screenshot\ 2024-07-01\ 090913.png");
+}
+
+.logo {
+  display: flex;
+  font-size: 50px;
+  font-weight: bold;
+  color: #333;
+}
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  p {
+    text-align: justify;
+  }
+  
+  .tim {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .anggota-tim {
+    flex: 1 0 300px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  
+  
